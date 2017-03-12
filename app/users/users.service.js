@@ -19,7 +19,7 @@ angular.module('angularInteracphiApp')
           });
         }
       });
-    },
+    };
 
     var Users = {
       getProfile: function(uid){
