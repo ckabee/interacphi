@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="874bf444-2ab0-4e82-ba86-dfc8cf5a82a2" name="Default" comment="dev 1">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/channels/messages.controller.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/channels/messages.html" />
+    <list default="true" id="874bf444-2ab0-4e82-ba86-dfc8cf5a82a2" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.js" afterPath="$PROJECT_DIR$/app/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/channels/channels.controller.js" afterPath="$PROJECT_DIR$/app/channels/channels.controller.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/channels/index.html" afterPath="$PROJECT_DIR$/app/channels/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/channels/messages.service.js" afterPath="$PROJECT_DIR$/app/channels/messages.service.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/users/users.service.js" afterPath="$PROJECT_DIR$/app/users/users.service.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -474,7 +466,7 @@
       <workItem from="1488820113727" duration="698000" />
       <workItem from="1489065314813" duration="4287000" />
       <workItem from="1489081627661" duration="599000" />
-      <workItem from="1489316813473" duration="7539000" />
+      <workItem from="1489316813473" duration="7549000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1489066473372</created>
@@ -483,11 +475,18 @@
       <option name="project" value="LOCAL" />
       <updated>1489066473372</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="dev 1">
+      <created>1489327404888</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1489327404888</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33359000" />
+    <option name="totallyTimeSpent" value="33369000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
